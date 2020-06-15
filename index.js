@@ -1,7 +1,7 @@
-const testVar = {}
+const testVar = {};
 
 function testFunc() {
-  return "hi"
+  return "hi";
 }
 
 function superbowlWin(arrObj){
