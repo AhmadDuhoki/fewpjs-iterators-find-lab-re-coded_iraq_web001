@@ -5,5 +5,5 @@ function testFunc() {
 }
 
 function superbowlWin(arrObj){
-  let findWin = arrObj.find()
+  let findWin = arrObj.find(element => element.result)
 }
